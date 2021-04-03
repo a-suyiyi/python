@@ -1,2 +1,1 @@
-from time import*
-version=strftime('%Y.%m.%d')
+version='0.0.1'
